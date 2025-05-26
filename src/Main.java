@@ -32,7 +32,7 @@ public class Main {
         set.add("TEST2");
 
 
-        // Parcurge și afișează toate elementele din sett
+        // Parcurge și afișează toate elementele din set
         for (String element : set) {
             System.out.println(element); // Ordinea poate fi diferită de cea de inserare
         }
